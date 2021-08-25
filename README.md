@@ -9,7 +9,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 - Java
 - Maven
 - VirtualBox
-- Boxfuse
+- Boxfusee
 
 ## Running
 
